@@ -9,6 +9,7 @@
 
 - https://github.com/r0mymendez/diagram-as-code
 
-## Github
+## Git
 
-- https://github.com/MyHoneyBadger/awesome-github-wiki
+- Github Wiki - https://github.com/MyHoneyBadger/awesome-github-wiki
+- Git hooks - https://kinsta.com/blog/git-hooks/
