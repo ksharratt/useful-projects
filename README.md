@@ -15,7 +15,8 @@
 
 ## Python
 - [Bump2Version](https://github.com/wiseaidev/bump2version) - Version Management
-- Linting and Code formatting - https://github.com/astral-sh/ruff
+- [Ruff](https://github.com/astral-sh/ruff) - Linting and Code formatting
+- [envcloak](https://github.com/Veinar/envcloak) - Security tool to encrypt .env files
 
 ## Diagrams
 - https://github.com/r0mymendez/diagram-as-code
