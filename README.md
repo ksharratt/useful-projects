@@ -9,6 +9,7 @@
 ## Git
 - [Github Wiki](https://github.com/MyHoneyBadger/awesome-github-wiki)
 - [Git hooks](https://kinsta.com/blog/git-hooks/)
+- [.gitignore templates](https://github.com/github/gitignore)
 
 ## Ansible
 - [Git Module](https://github.com/lvrfrc87/git-acp-ansible) - Replacement for limited ansible core git module
